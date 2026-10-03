@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si usas este software, cítalo con estos metadatos."
+title: "HerbarIA"
+type: software
+authors:
+  - family-names: "Borrás Rocher"
+    given-names: "Fernando"
+    affiliation: "Universidad Miguel Hernández de Elche"
+    orcid: "https://orcid.org/0000-0002-5519-4573"
+  - family-names: "Moreno Compañ"
+    given-names: "Joaquín"
+    affiliation: "Universidad Miguel Hernández de Elche"
+    orcid: "https://orcid.org/0000-0002-5483-3417"
+doi: "10.5281/zenodo.23116647"
+version: "1.0.0"
+date-released: "2026-10-03"
+url: "https://fborrasumh.github.io/herbaria/"
+repository-code: "https://github.com/fborrasumh/herbaria"
+license: MIT
