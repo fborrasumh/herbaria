@@ -4,6 +4,8 @@ Aplicación web de un solo fichero para **aprender a identificar plantas con una
 
 **Usar la app:** https://fborrasumh.github.io/herbaria/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23116647.svg)](https://doi.org/10.5281/zenodo.23116647)
+
 ## Origen de la idea
 
 HerbarIA parte del cuaderno **«IA generativa aplicada a la identificación de especies vegetales mediterráneas»**, de **Joaquín Moreno Compañ** (Botánica, 1.º del Grado en Ciencias Ambientales): un tutor de IA que acompaña el uso de una clave dicotómica sin sustituir la observación de la planta ni la clave, que es la referencia científica. Esta app mantiene ese principio y lo convierte en una herramienta de estudio para todo el curso.
@@ -48,7 +50,7 @@ ORCID: Fernando Borrás Rocher [0000-0002-5519-4573](https://orcid.org/0000-0002
 
 ## Cómo citar
 
-Borrás Rocher, F. y Moreno Compañ, J. (2026). *HerbarIA* (v1.0.0) [Software]. (DOI en trámite)
+Borrás Rocher, F. y Moreno Compañ, J. (2026). *HerbarIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.23116647](https://doi.org/10.5281/zenodo.23116647)
 
 ## Licencia
 
